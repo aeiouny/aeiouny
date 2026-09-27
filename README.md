@@ -15,36 +15,9 @@ Backend • Distributed Systems • Full-Stack Development
 
 ## Connect
 
-[![Email](https://img.freepik.com/premium-vector/google-icons-gmail-icons-editable-vector-illustration_981536-461.jpg?semt=ais_hybrid&w=740&q=80)](mailto:johnnyxn@outlook.com)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png)](https://linkedin.com/in/johnnyxn)
+<a href="mailto:johnnyxn@outlook.com"><img src="https://img.freepik.com/premium-vector/google-icons-gmail-icons-editable-vector-illustration_981536-461.jpg?semt=ais_hybrid&w=740&q=80" width="32" /></a>
+<a href="https://linkedin.com/in/johnnyxn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="32" /></a>
 ---
-
-## Languages
-
-
----
-
-## Frameworks & Libraries
-
-
----
-
-## Databases, Cloud & DevOps
-
----
-
-## Featured Projects
-
-
----
-
-
-## GitHub Stats
-
-
----
-
-## Contribution Streak
 
 <!--
 **aeiouny/aeiouny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
