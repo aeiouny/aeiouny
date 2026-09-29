@@ -12,10 +12,10 @@
   <br>
 
   ## About Me
-  Current Graduate Student Researcher at SJSU, working with ML pipelines
-  Proficient in Python, Java, JavaScript, TypeScript, and SQL
-  Comfortable building with Spring Boot, FastAPI, React, and Next.js
-  Building AI ML, DevOps, and Networking projects on the side
+  <p>Current Graduate Student Researcher at SJSU, working with ML pipelines</p>
+  <p>Proficient in Python, Java, JavaScript, TypeScript, and SQL</p>
+  <p>Comfortable building with Spring Boot, FastAPI, React, and Next.js</p>
+  <p>Building AI ML, DevOps, and Networking projects on the side</p>
   
   ## Tech Stack
   
