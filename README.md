@@ -1,6 +1,6 @@
 ## Hi I'm Johnny 👋
 
-**Software Engineer | MS Software Engineering @ San José State University (Dec. 2027)**
+**Software Engineer | MS Software Engineering @ San José State University (Dec. 2027)**<br>
 Backend • Distributed Systems • Full-Stack Development
 
 ---
@@ -14,7 +14,6 @@ Backend • Distributed Systems • Full-Stack Development
 ---
 
 ## Connect
-
 <a href="mailto:johnnyxn@outlook.com"><img src="https://img.freepik.com/premium-vector/google-icons-gmail-icons-editable-vector-illustration_981536-461.jpg?semt=ais_hybrid&w=740&q=80" height="40" width="40" style="margin: 0 6px"/></a>
 <a href="https://linkedin.com/in/johnnyxn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="40" width="40" style="margin: 0 6px"/></a>
 
@@ -58,6 +57,21 @@ Backend • Distributed Systems • Full-Stack Development
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 6px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 0 6px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" style="margin: 0 6px"/>
+</p>
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img src="https://githubreadmestats.vercel.app/apiusername=aeiouny&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeiouny&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeiouny&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <!--
