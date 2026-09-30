@@ -9,8 +9,6 @@
   <a href="mailto:johnnyxn@outlook.com"><img src="https://img.freepik.com/premium-vector/google-icons-gmail-icons-editable-vector-illustration_981536-461.jpg?semt=ais_hybrid&w=740&q=80" height="32" width="32" style="margin: 0 8px"/></a>
   <a href="https://linkedin.com/in/johnnyxn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="32" width="32" style="margin: 0 8px"/></a>
 
-  <br>
-
   ## About Me
   <p>Current Graduate Student Researcher at SJSU, working with ML pipelines</p>
   <p>Proficient in Python, Java, JavaScript, TypeScript, and SQL</p>
