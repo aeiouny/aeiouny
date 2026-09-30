@@ -20,7 +20,7 @@
   ## Tech Stack
   
   **Languages**
-  <p align="center">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin: 0 8px"/> 
@@ -30,7 +30,7 @@
   </p>
   
   **Frameworks & Libraries**
-  <p align="center">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36" style="margin: 0 8px"/> 
@@ -42,7 +42,7 @@
   </p>
   
   **Databases, Cloud & DevOps**
-  <p align="center">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"style="margin: 0 8px" /> 
@@ -56,9 +56,8 @@
   </p>
   
   ## GitHub Stats
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/apiusername=aeiouny&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeiouny&theme=tokyonight&hide_border=true" height="165" />
   </p>
 </div>
 
