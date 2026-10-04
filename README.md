@@ -10,9 +10,9 @@
   <a href="https://linkedin.com/in/johnnyxn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="48" width="48" style="margin: 0 8px"/></a>
 
   ## About Me
-  Current Graduate Student Researcher at SJSU, working with ML pipelines
-  Proficient in Python, Java, JavaScript, TypeScript, and SQL
-  Comfortable building with Spring Boot, FastAPI, React, and Next.js
+  Current Graduate Student Researcher at SJSU, working with ML pipelines<br>
+  Proficient in Python, Java, JavaScript, TypeScript, and SQL<br>
+  Comfortable building with Spring Boot, FastAPI, React, and Next.js<br>
   Building AI ML, DevOps, and Networking projects on the side
   
   ## Tech Stack
