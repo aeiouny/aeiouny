@@ -10,10 +10,10 @@
   <a href="https://linkedin.com/in/johnnyxn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="48" width="48" style="margin: 0 8px"/></a>
 
   ## About Me
-  <p>Current Graduate Student Researcher at SJSU, working with ML pipelines</p>
-  <p>Proficient in Python, Java, JavaScript, TypeScript, and SQL</p>
-  <p>Comfortable building with Spring Boot, FastAPI, React, and Next.js</p>
-  <p>Building AI ML, DevOps, and Networking projects on the side</p>
+  Current Graduate Student Researcher at SJSU, working with ML pipelines
+  Proficient in Python, Java, JavaScript, TypeScript, and SQL
+  Comfortable building with Spring Boot, FastAPI, React, and Next.js
+  Building AI ML, DevOps, and Networking projects on the side
   
   ## Tech Stack
   
@@ -51,6 +51,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48" style="margin: 0 8px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" style="margin: 0 8px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
   </p>
   
   ## GitHub Stats
